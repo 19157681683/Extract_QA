@@ -18,4 +18,4 @@ python + 多线程 + 提示词
 
 # 4. 效果
 
-![](images\效果图.png)
+![](https://github.com/19157681683/Extract_QA/blob/main/images/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
